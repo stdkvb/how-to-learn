@@ -55,6 +55,7 @@
   font-weight: normal;
   line-height: 25px;
   margin: 0;
+  z-index: 2;
 }
 
 .header__main-illustration {
