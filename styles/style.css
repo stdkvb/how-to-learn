@@ -8,6 +8,7 @@
 @import url(../blocks/header/__subtitle/header__subtitle.css);
 @import url(../blocks/header/__main-illustration/header__main-illustration.css);
 @import url(../blocks/header/__square-pic/header__square-pic.css);
+@import url(../blocks/rotation/rotation.css);
 @import url(../blocks/header/__link/header__link.css);
 @import url(../blocks/content/description/description.css);
 @import url(../blocks/content/description/two-columns/two-columns.css);
@@ -15,6 +16,16 @@
 @import url(../blocks/content/description/two-columns/__main-text/two-columns__main-text.css);
 @import url(../blocks/content/description/two-columns/__paragraph/two-columns__paragraph.css);
 @import url(../blocks/content/description/two-columns/__span-accent/two-columns__span-accent.css);
+@import url(../blocks/content/techniques/techniques.css);
+@import url(../blocks/content/cards/cards.css);
+@import url(../blocks/content/cards/__item/cards__item.css);
+@import url(../blocks/content/cards/__image/cards__image.css);
+@import url(../blocks/content/cards/__title/cards__title.css);
+@import url(../blocks/content/cards/__description/cards__description.css);
+@import url(../blocks/content/feynman/feynman.css);
+@import url(../blocks/content/feynman/__title/feynman__title.css);
+@import url(../blocks/content/feynman/__subtitle/feynman__subtitle.css);
+@import url(../blocks/content/feynman/__link/feynman__link.css);
 @import url(../blocks/content/digits/digits.css);
 @import url(../blocks/content/section-title/section-title.css);
 @import url(../blocks/content/section-subtitle/section-subtitle.css);
@@ -22,10 +33,6 @@
 @import url(../blocks/content/table/__cell/table__cell.css);
 @import url(../blocks/content/table/__heading/table__heading.css);
 @import url(../blocks/content/table/__text/table__text.css);
-@import url(../blocks/content/feynman/feynman.css);
-@import url(../blocks/content/feynman/__title/feynman__title.css);
-@import url(../blocks/content/feynman/__subtitle/feynman__subtitle.css);
-@import url(../blocks/content/feynman/__link/feynman__link.css);
 @import url(../blocks/content/kaufman/kaufman.css);
 @import url(../blocks/content/section-title/_theme/section-title_theme_dark.css);
 @import url(../blocks/content/section-subtitle/_theme/section-subtitle_theme_dark.css);
