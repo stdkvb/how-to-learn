@@ -1,5 +1,13 @@
 .logo_place_footer {
-  width: 183px;
   height: 35px;
-  background-image: url('/images/logo_place_footer.svg');
+  background-image: url(../../../images/logo_place_footer.svg);
+  transition-property: opacity;
+  transition-duration: 1s;
+  transition-timing-function: linear;
 }
+
+
+.logo_place_footer:hover {
+  opacity: 0.2;
+}
+

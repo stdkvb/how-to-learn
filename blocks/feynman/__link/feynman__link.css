@@ -7,11 +7,11 @@
   font-weight: normal;
   text-decoration: none;
   color: #2f80ed;
+  transition-property: opacity;
+  transition-duration: 1s;
+  transition-timing-function: linear;
 }
 
 .feynman__link:hover {
   opacity: 0.2;
-  transition-property: opacity;
-  transition-duration: 1s;
-  transition-timing-function: linear;
 }
