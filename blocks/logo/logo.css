@@ -2,4 +2,12 @@
   width: 183px;
   background-size: contain;
   background-repeat: no-repeat;
+  transition-property: opacity;
+  transition-duration: 1s;
+  transition-timing-function: linear;
+}
+
+
+.logo:hover {
+  opacity: 0.2;
 }
