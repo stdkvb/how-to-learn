@@ -1,4 +1,5 @@
 # «How to Learn»
+[Look at GitHub Pages](https://stdkvb.github.io/how-to-learn/)
 
 **The website "How to Learn"** is a simple one-page website that was created to consolidate practical skills in site layout. **HTML** and **CSS** technologies were applied.
 
@@ -15,6 +16,7 @@ Plans for completion:
 _____
 
 # «Научиться учиться»
+[Посмотреть на GitHub Pages](https://stdkvb.github.io/how-to-learn/)
 
 **Сайт «Научиться учиться»** – это простой одностраничный сайт, который создавался для закрепления практических навыков по вёрстке сайтов. Были применены такие технологии, как **HTML**, **CSS**.
 
